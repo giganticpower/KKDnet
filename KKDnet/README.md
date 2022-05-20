@@ -5,7 +5,8 @@
 
 In this paper, we proposed a novel distillation method for efficient and accurate arbitrary-shaped text detection, termed Kernel-mask Knowledge Distillation (KKD), to improve the efficiency and accuracy of text detection.
 
-![image.png](figure3.png)
+![image.png](figure3.png) 
+The overall network architecture diagram will be uploaded after publication
 
 ## Installation
 
